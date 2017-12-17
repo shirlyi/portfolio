@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+body{
+
+	background: #a2d0f2;
+    font-family: Impact, Charcoal, sans-serif;
+	font-size: : 25px;
+}
+h1 {
+    color: #f2a4a2;
+    text-align: center;
+    margin-top: 2%;
+  }
+
+img{
+    width: 15%; 
+    height: 20%;
+}
